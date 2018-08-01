@@ -5,4 +5,4 @@ To use:
 
 2) Copy the ckCSV.h file into the src folder
 
-3) Use main.cpp and autoToolsMain.cpp as a reference when editing the main robot .cpp file
+3) Use AutoToolsMain.cpp in the EclipseCode folder as a reference.
